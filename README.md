@@ -7,3 +7,4 @@
 3. 오주환🎨 : [과제 제출](https://github.com/juhwano/careerly)
 4. 이민희🍗 : [과제 제출](https://github.com/himinhee/study_front/tree/main/careerly_page)
 5. 김용범🐯 : [과제 제출](https://github.com/Kim-yongbeom/mongodb)
+6. 이상경🍗 : [과제 제출](https://github.com/name234532/exercise.git)
